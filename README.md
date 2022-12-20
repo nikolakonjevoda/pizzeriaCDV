@@ -1,4 +1,3 @@
 # pizzeriaCDV
 Projekt w ramach zajęć 'Git i Github dla każdego'.
-
-Ten plik należy do MAIN
+To jest strona naszej Pizzerii.
