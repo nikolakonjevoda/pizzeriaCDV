@@ -32,3 +32,10 @@
 |--|-------------------------|-|-|-----------------|-----|
 |1. |SICILIANA (sos pomidorowy, szynka, oregano)| | 40 zł| 42 zł| 45 zł|
 |2. |CHICHAGO (sos pomidorowy, ser)| |45 zł|46 zł|47 zł|
+
+##Wege
+<img src='/pizzeria/kelvin-t-AcA8moIiD3g-unsplash.jpg' height=400 width=600>
+|Lp. | Pizza: |rozmiar:| 30 cm | 50 cm | 60 cm|
+|--|-------------------------|-|-|-----------------|-----|
+|1. |QUATRO FORMAGGI WEGE (sos pomidorowy, ser, ser, ser, ser)| | 40 zł| 42 zł| 45 zł|
+|2. |UNO FORMAGIO WEGE (sos pomidorowy, ser)| |45 zł|46 zł|47 zł|
